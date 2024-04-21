@@ -1,0 +1,10 @@
+.background-container {
+    background-image: url('../src/assets/Background.jpeg');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    /* Other background properties can be added here */
+  }
+  
+.bigger-jumbotron {
+    padding: 9rem; /* Increase the padding to make the jumbotron bigger */
+}
