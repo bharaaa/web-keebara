@@ -3,14 +3,14 @@ import { Component } from "react";
 export default function Navbar() {
     return(
             <>
-            <nav className="navbar navbar-expand-lg sticky-top mb-3">
+            <nav className="navbar navbar-expand-lg sticky-top my-2 bg-light">
                 <div className="d-flex align-items-center">
-                <div className="containe-fluid">
-                    <a className="navbar-brand text-black fs-3 ms-3" href="#">
+                <div className="containe-fluid ms-3">
+                    <a className="navbar-brand text-black fs-3" href="#">
                         <b>Keebara</b>
                     </a>    
                 </div>
-                <div>
+                <div className="container-fluid">
                     <button
                         type="button"
                         className="btn text-black ms-3"

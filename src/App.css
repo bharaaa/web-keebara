@@ -6,5 +6,18 @@
   }
   
 .bigger-jumbotron {
-    padding: 9rem; /* Increase the padding to make the jumbotron bigger */
+    padding: 9rem;
+}
+
+.jumbotron {
+  padding: 8rem;
+}
+
+.gradient-background {
+  background: linear-gradient(to bottom, #0c0c04, #4793AF);
+}
+
+.extra-padding {
+  padding-left: 100px;
+  padding-right: 100px;
 }
